@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👋
 
 - 🔭 I’m currently working on Dalian Martime University 
 - 🌱 I’m currently learning Python,java,matlab,machine-learning,tensor
