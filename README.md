@@ -7,3 +7,4 @@
 - 📫 How to reach me: 2219479402@qq.com,wechat:zdh030212
 - 😄 Pronouns:HDZ
 - 😁 人生苦短，我用Python。
+- 心即理，知行合一，致良知
