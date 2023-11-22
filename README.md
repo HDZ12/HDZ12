@@ -6,4 +6,5 @@
 - 🤔 一个热爱生活，拥护开源的程序猿👨‍💻
 - 📫 How to reach me: 2219479402@qq.com,wechat:zdh030212
 - 😄 Pronouns:HDZ
-- 😁 心即理，知行合一，致良知。
+- 😁 心即理，知行合一，致良知。\
+[![HDZ12's GitHub stats](https://github-readme-stats.vercel.app/api?username=HDZ12)](https://github.com/HDZ12/github-readme-stats)
