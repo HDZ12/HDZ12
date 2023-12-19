@@ -11,3 +11,6 @@
 - 😄 Pronouns:HDZ
 - 😁 心即理，知行合一，致良知。
 -  [个人简历](https://hdz12.github.io/)
+- 职业技能：\
+![](https://img.shields.io/badge/Java%20-blue) ![](https://img.shields.io/badge/Python%20-green) ![](https://img.shields.io/badge/MATLAB%20-orange) ![](https://img.shields.io/badge/C%20-black) ![](https://img.shields.io/badge/Scala%20-red)\
+![](https://img.shields.io/badge/Machine-Learning%20-yellow)![](https://img.shields.io/badge/Tensor-Completion%20-grape)
