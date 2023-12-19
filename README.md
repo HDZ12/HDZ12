@@ -1,5 +1,4 @@
-
-
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&random=false&width=435&lines=Activity+is+the+only+to+knowledge+.)](https://git.io/typing-svg)
 ![](https://github.com/HDZ12/HDZ12/assets/99587726/73d0fda7-1fc3-4152-a0a2-39ef2239f6e1)
 
 
