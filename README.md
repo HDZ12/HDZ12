@@ -11,5 +11,5 @@
 - 📫 How to reach me: 2219479402@qq.com,wechat:zdh030212
 - 😄 Pronouns:HDZ
 - 😁 心即理，知行合一，致良知。
--  [个人简历](https://hdz12.github.io/)\
-![](https://stats.justsong.cn/api/leetcode?username=HDZ&cn=true)  ![](https://stats.justsong.cn/api/github?username=HDZ12)
+-  [个人简历](https://hdz12.github.io/)
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=HDZ12&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDZ12&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
