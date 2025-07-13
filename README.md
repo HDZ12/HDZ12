@@ -13,6 +13,3 @@
 - 📫 How to reach me: 2219479402@qq.com,wechat:zdh030212
 - 😄 Pronouns:HDZ
 - 😁 宏愿纵未了 奋斗总不太晚
--  [个人简历](https://hdz12.github.io/)
- # Thanks for visiting :heart:
-  ![VisitorCount](https://profile-counter.glitch.me/HDZ12/count.svg)
